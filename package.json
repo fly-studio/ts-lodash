@@ -1,0 +1,7 @@
+{
+  "name": "lodash",
+  "devDependencies": {
+    "@types/lodash": "^4.14.85"
+  },
+  "typings": "node_modules/@types/lodash/index.d.ts"
+}
